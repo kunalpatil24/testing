@@ -1,4 +1,5 @@
-<?php require_once "phpuploader/include_phpuploader.php" ?>
+
+test<?php require_once "phpuploader/include_phpuploader.php" ?>
 <?php
 $uploader=new PhpUploader();
 
